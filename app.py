@@ -201,7 +201,7 @@ TAB_LABELS = [
     "Randomization & clustering: unit of analysis",
     "Regression vs t-test",
 ]
-tab_readme,tab_clt, tab_lln, tab_ht, tab_median, tab_cluster, tab_reg, tab_cuped = st.tabs(TAB_LABELS)
+tab_readme, tab_ht, tab_cuped, tab_clt, tab_lln, tab_median, tab_cluster, tab_reg  = st.tabs(TAB_LABELS)
 # -------------------------------------------------------------
 # README / Start tab
 # -------------------------------------------------------------
