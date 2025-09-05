@@ -1,4 +1,4 @@
-# Elements of A/B Testing: Intuition Lab 
+# Elements of A/B Testing: Intuition Lab Running again
 # -------------------------------------------------------------
 # Changes vs previous:
 # - Performance: vectorized two-sample tests; caching MC draws/quantiles; fast plotting (decimation)
