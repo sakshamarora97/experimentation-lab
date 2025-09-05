@@ -173,7 +173,7 @@ def cached_true_quantile(dist: str, params_key: tuple, q: float, seed: int, n_mc
 # -------------------------------------------------------------
 # Header & global sidebar controls
 # -------------------------------------------------------------
-st.title("A/B Testing Intuition Lab — interactive simulations (optimized)")
+st.title("Interactive Simulations for A/B Testing Concepts")
 
 st.sidebar.header("Global settings")
 seed = st.sidebar.number_input("Random seed (optional)", value=123, step=1)
